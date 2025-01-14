@@ -1,0 +1,18 @@
+
+.main-container{
+	background-image : url("https://www.alphr.com/wp-content/uploads/2020/10/Netflix-001.png");
+	background-size: cover;
+	height: 100vh;
+}
+
+.logo-image{
+	height: 50px;
+	width: auto;
+	padding-left: 20px;
+}
+.text-container{
+	margin: 100px;
+	padding-left: 200px;
+	padding-right: 200px;
+	text-align: center;
+}
